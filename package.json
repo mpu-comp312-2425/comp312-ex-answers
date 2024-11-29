@@ -1,0 +1,11 @@
+{
+  "name": "comp312-answers",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Patrick Pang",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.0.11"
+  }
+}
